@@ -15,7 +15,7 @@
 - **Telegram** _@DenysChaplygin_
 - [Linkedin](https://www.linkedin.com/in/denis-chaplygin-a1590b10a/)
 - [Stackoverflow](https://stackoverflow.com/users/19792103/denys-chaplygin)
-- [![<img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" hight="20" width="20"/>](https://www.codewars.com/packs/assets/logo.61192cf7.svg)](https://www.codewars.com/users/Chaplygindenys)
+- [![Codewars](https://www.codewars.com/packs/assets/logo.61192cf7.svg =20x20)](https://www.codewars.com/users/Chaplygindenys)
 
 ```
 

@@ -10,15 +10,16 @@
 
 ### Contact information:
 
-- **Phone:** _+38 067 7463202_
+**Phone:** +38 067 7463202
+**E-mail:** *chaplygindenys@gmail.com*
+**Telegram** _@DenysChaplygin_
+[Linkedin](https://www.linkedin.com/in/denis-chaplygin-a1590b10a/)
+[Stackoverflow](https://stackoverflow.com/users/19792103/denys-chaplygin)
+[![Codewars](https://www.codewars.com/packs/assets/logo.61192cf7.svg)](https://www.codewars.com/users/Chaplygindenys)
 
-- **E-mail:** *chaplygindenys@gmail.com*
+# ` `
 
-- **Telegram** _@DenysChaplygin_
-
-- [Linkedin](https://www.linkedin.com/in/denis-chaplygin-a1590b10a/)
-- [Stackoverflow](https://stackoverflow.com/users/19792103/denys-chaplygin)
-- [![Codewars](https://www.codewars.com/packs/assets/logo.61192cf7.svg =30x30) Codewars](https://www.codewars.com/users/Chaplygindenys)
+# ```
 
 ```
 
